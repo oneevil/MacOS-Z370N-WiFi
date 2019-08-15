@@ -119,7 +119,7 @@
 				<key>Comment</key>
 				<string>USB port limit patch #1/4 10.14.x modify by DalianSky (credit ydeng)</string>
 				<key>Disabled</key>
-				<false/>
+				<true/>
 				<key>Find</key>
 				<data>
 				g/sPDw==
@@ -139,7 +139,7 @@
 				<key>Comment</key>
 				<string>USB port limit patch #2/4 10.14.x modify by DalianSky (credit PMHeart)</string>
 				<key>Disabled</key>
-				<false/>
+				<true/>
 				<key>Find</key>
 				<data>
 				g+MP0w==
@@ -159,7 +159,7 @@
 				<key>Comment</key>
 				<string>USB Port limit patch #3/4 10.14.x modify by DalianSky (credit PMheart)</string>
 				<key>Disabled</key>
-				<false/>
+				<true/>
 				<key>Find</key>
 				<data>
 				g/sPDw==
@@ -179,7 +179,7 @@
 				<key>Comment</key>
 				<string>USB Port limit patch #4/4 10.14.x modify by DalianSky (credit PMheart)</string>
 				<key>Disabled</key>
-				<false/>
+				<true/>
 				<key>Find</key>
 				<data>
 				g/8PDw==
@@ -207,41 +207,41 @@
 		<string>C02032109R5DC771H</string>
 		<key>ROM</key>
 		<data>
-		Z5QiQ56w
+		EpYlgOuU
 		</data>
 	</dict>
 	<key>SMBIOS</key>
 	<dict>
 		<key>BiosReleaseDate</key>
-		<string>04/23/2019</string>
+		<string>05/25/2019</string>
 		<key>BiosVendor</key>
 		<string>Apple Inc.</string>
 		<key>BiosVersion</key>
-		<string>MM81.88Z.F000.B00.1904232231</string>
+		<string>IM183.88Z.F000.B00.1905251430</string>
 		<key>Board-ID</key>
-		<string>Mac-7BA5B2DFE22DDD8C</string>
+		<string>Mac-BE088AF8C5EB4FA2</string>
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C07851270CDCB</string>
+		<string>C02730101J9J0PGUE</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
 		<string>1.0</string>
 		<key>ChassisAssetTag</key>
-		<string>Mini-Aluminum</string>
+		<string>iMac-Aluminum</string>
 		<key>ChassisManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>ChassisType</key>
 		<string>0x09</string>
 		<key>EfiVersion</key>
-		<string>220.260.170.0.0</string>
+		<string>173.0.0.0.0</string>
 		<key>Family</key>
-		<string>Mac mini</string>
+		<string>iMac</string>
 		<key>FirmwareFeatures</key>
-		<string>0xFD8FF466</string>
+		<string>0xFC0FE137</string>
 		<key>FirmwareFeaturesMask</key>
-		<string>0xFFFFFFFF</string>
+		<string>0xFF1FFF3F</string>
 		<key>LocationInChassis</key>
 		<string>Part Component</string>
 		<key>Manufacturer</key>
@@ -249,13 +249,13 @@
 		<key>Mobile</key>
 		<false/>
 		<key>PlatformFeature</key>
-		<string>0x02</string>
+		<string>0x00</string>
 		<key>ProductName</key>
-		<string>Macmini8,1</string>
+		<string>iMac18,3</string>
 		<key>SerialNumber</key>
-		<string>C07XVXZFJYVX</string>
+		<string>C02V46ZTJ1GJ</string>
 		<key>SmUUID</key>
-		<string>07753039-72E0-48C5-8314-0CF756439EB0</string>
+		<string>852C6029-8D6F-44C9-9916-377A0480EB94</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
